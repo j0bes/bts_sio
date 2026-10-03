@@ -19,10 +19,16 @@ Scanner scanner = new Scanner(System.in);
 ### Lire l'entrée utilisateur
 Maintenant que l'on à initialiser la *communication* (le Scanner est considéré comme une communication entre la machine et l'utilisateur), il faut pouvoir stocker les réponses de l'utilisateur.
 ```java
-int age = sc.nextInt(); // pour un entier
-double note = sc.nextDouble(); // pour un réel
-String prenom = sc.nextLine(); // pour une chaine de caractère
+int age = scanner.nextInt(); // pour un entier
+double note = scanner.nextDouble(); // pour un réel
+String prenom = scanner.nextLine(); // pour une chaine de caractère
 ```
+### Fermer la communication
+Comme pour un appel téléphonique, il faut couper la communication. Donc lorsqu'on a finit d'utiliser `Scanner`:
+```java
+scanner.close();
+```
+Cela indique à Java qu’on n’a plus besoin du `Scanner` et qu’il peut libérer les ressources qu’il utilisait.
 ## Les fonctions
 Les fonctions sont une partie importante en programmation. Elles permettent de créer un bout de code qui peut être réutilisé, sans avoir à être réécrit. On dit dira: *faire appel à une fonction*. On verra par la suite l'appel de fonction.
 
