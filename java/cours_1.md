@@ -1,4 +1,4 @@
-# JAVA
+# Cours 1 JAVA
 - [Entrée utilisateur](./cours_1.md#entrée-utilisateur)
 - [Les fonctions](./cours_1.md#les-fonctions)
 ## Entrée utilisateur
@@ -58,6 +58,6 @@ public static void main(String[] args){
 }
 ```
 <hr>
-cours_1 - cours java - BTS SIO 1B 2026
+Cours 1 - cours java - BTS SIO 1B 2026
 
 [Introduction](./introduction.md) - [Cours suivant]()
