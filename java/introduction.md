@@ -1,4 +1,4 @@
-# JAVA
+# Introduction JAVA
 [Support pour apprendre - w3schools](https://www.w3schools.com/java/default.asp)
 ## C'est quoi ?
 Il s'agit d'un langage de **programmation**, orienté objet (POO = *Programmation Orienté Objet*) et basé sur les classes.
@@ -147,6 +147,6 @@ System.out.println(z); // 6
 System.out.println(z); // 5
 ```
 <hr>
-Introduction - cours java - BTS SIO 1B 2026<br>
+Introduction JAVA - cours java - BTS SIO 1B 2026<br>
 
 [Cours suivant](./cours_1.md)
