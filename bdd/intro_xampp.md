@@ -16,16 +16,16 @@ le système voulu (windows, macos, linux).
 - [MacOS](./intro_xampp.md#macos)
 - [Linux](./intro_xampp.md#linux)
 ### Windows
-Une fois télécharger, lancer le `.exe`. Puis suivre les instructions (cliquer sur next pour toutes les étapes).<br>
+Une fois téléchargé, lancer le `.exe`. Puis suivre les instructions (cliquer sur next pour toutes les étapes).<br>
 Xampp est maintenant installé sur votre machine !
 ### MacOS
-Une fois télécharger, lancer le `.dmg`.<br>
+Une fois téléchargé, lancer le `.dmg`.<br>
 > ⚠️ Si une erreur apparaît à propos du constructeur non vérifié, allez dans vos paramètres > confidentialité et sécurité. En descendant vous devriez trouvé XAMPP et un bouton `Ouvrir quand même`, cliquez dessus.
 
 Suivez ensuite les instructions (cliquez sur next à chaque étapes).<br>
 Xampp est maintenant installé sur votre machine !
 ### Linux
-Une fois télécharger, lancer le terminal. Et entrez les commandes suivantes:
+Une fois téléchargé, lancer le terminal. Et entrez les commandes suivantes:
 ```bash
 chmod +x ./xampp-installer.run
 sudo ./xampp-installer.run
