@@ -11,7 +11,7 @@ import java.util.Scanner;
 ```
 Une fois importer on doit maintenant initialiser ce Scanner. On se rend donc dans le main de notre classe (`public static void main`), car c'est ici que l'on execute le code.
 
-Ici cela fait partie des parties relativement abstraites sur lesquels vous ne devez pas vous attardez, mais plutôt comprendre le fonctionnement global.
+Ici cela fait partie des syntaxes relativement abstraites sur lesquels vous ne devez pas vous attardez, mais plutôt comprendre le fonctionnement global.
 ```java
 Scanner scanner = new Scanner(System.in);
 // cette ligne s'écrira toujours de la même manière pour initialiser le Scanner.
