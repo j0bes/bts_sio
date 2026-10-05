@@ -4,10 +4,12 @@
 ### Cours disponible actuellement
 - [Java](./java/)
     - [Introduction](./java/introduction.md)
-    - [Cours 1](./java/cours_1.md)
+    - [1 - Input & Méthodes](./java/cours_1.md)
 - [Base de donnée](./bdd/)
     - [Introduction XAMPP](./bdd/intro_xampp.md)
-    - [Cours 1](./bdd/cours_1.md)
+    - [1 - Utiliser & Naviguer dans un terminal MySQL](./bdd/cours_1.md)
+- [Réseau](./reseau/)
+    - [1 - Introduction au réseau](./reseau/cours_1.md)
 
 <hr>
 @j0bes - BTS SIO 2026/2027
