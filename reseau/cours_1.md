@@ -107,3 +107,5 @@ Les topologies ne sont pas forcément à connaître par cœur, simplement il est
 
 <hr>
 Cours 1 - cours réseau - BTS SIO 1B 2026
+
+[Cours suivant](./cours_2.md)
