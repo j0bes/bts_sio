@@ -58,11 +58,19 @@ Le client lui choisit un port aléatoire pour sortir (49152 à 65535).<br>
 *À venir.*
 
 ## Modèle TCP/IP
-Modèle OSI mais en simplifié, 4 couches:
-* Applications : *HTTP, DNS, DHCP, FTP, SMTP*
-* Transport : *TCP/UDP & les ports*
-* Internet : *IP, ICMP, ARP*
-* Accès réseau : *Ethernet, WiFi, MAC*
+|Numéro|Couche|Protocoles|
+|---|---|---|
+|4|Applications| *HTTP, DNS, DHCP, FTP, SMTP*|
+|3|Transport|*TCP/UDP & les ports*|
+|2|Internet|*IP, ICMP, ARP*|
+|1|Accès réseau|*Ethernet, WiFi, MAC*|
+
+Il reprends la même structure mais regroupe simplement certaines parties ensemble.
+
+4. **Application/Presentation/Session**
+3. **Transport**
+2. **Réseau/Liaison**
+1. **Physique**
 
 <hr>
 Cours 2 - cours réseau - BTS SIO 1B 2026
