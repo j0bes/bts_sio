@@ -20,7 +20,7 @@ On peut le comparer à un **réseau routier** : des villes (les machines), des r
 
 Il y a donc 3 ingrédients :
 
-| Ingrédient | Rôle | Exemples |
+| Ingrédient | Rôle | Exemples |1 - Introduction au réseau
 |:--|:--|:--|
 | **Périphériques** (ou *hôtes*) | Ceux qui envoient et reçoivent des données | PC, serveur, téléphone, imprimante |
 | **Équipements réseau** | Ceux qui font circuler les données | **switch** (commutateur), **routeur** |
@@ -126,7 +126,7 @@ Exemple : un réseau domestique.
      PC_01               PC_02
 ```
 
-### Comment MAC et IP travaillent ensemble
+### La relation entre l'IP et le MAC
 
 Quand le PC_01 veut intéragir avec `192.168.0.11`, il connaît son **IP** mais pas sa **MAC**. Il envoie donc dans le réseau : *« Qui possède l'IP 192.168.0.11 ? »* Le PC_02 répond : *« C'est moi, voici mon adresse MAC. »* Ce mécanisme s'appelle **le protocole ARP**.
 
