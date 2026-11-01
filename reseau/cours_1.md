@@ -253,4 +253,5 @@ Côté client, le port d'envoi est choisi **au hasard** (entre 49152 et 65535).
 On l'écrit après l'adresse IP, séparé par `:` > `http://127.0.0.1:5000`
 
 ---
-Cours 1 - Réseau - BTS SIO 1B 2026
+Cours 1 - Réseau - BTS SIO 1B 2026<br>
+[*@j0bes*](https://github.com/j0bes)
