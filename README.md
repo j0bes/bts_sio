@@ -9,8 +9,7 @@
     - [Introduction XAMPP](./bdd/intro_xampp.md)
     - [1 - Utiliser & Naviguer dans un terminal MySQL](./bdd/cours_1.md)
 - [Réseau](./reseau/)
-    - [1 - Introduction au réseau](./reseau/cours_1.md)
-    - [2 - Modèle OSI & TCP/IP](./reseau/cours_2.md)
+    - [Chapitre 1](./reseau/cours_1.md)
 
 <hr>
 @j0bes - BTS SIO 2026/2027
