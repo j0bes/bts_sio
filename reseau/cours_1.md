@@ -20,7 +20,7 @@ On peut le comparer à un **réseau routier** : des villes (les machines), des r
 
 Il y a donc 3 ingrédients :
 
-| Ingrédient | Rôle | Exemples |1 - Introduction au réseau
+| Ingrédient | Rôle | Exemples |
 |:--|:--|:--|
 | **Périphériques** (ou *hôtes*) | Ceux qui envoient et reçoivent des données | PC, serveur, téléphone, imprimante |
 | **Équipements réseau** | Ceux qui font circuler les données | **switch** (commutateur), **routeur** |
