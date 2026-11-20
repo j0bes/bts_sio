@@ -196,7 +196,36 @@ while (i<=5){
 // Sortie : 1 3 4 5
 ```
 On voit qu'on a sauté l'affichage à l'itération `i == 2`.
+## Exmeple conditions + boucles avec Scanner
+On veut pouvoir afficher les **n** premiers carré, mais on ne veut pas afficher le carré de 2.
+```java
+import java.util.Scanner;
 
+public class Cours {
+    public static void main(String[] args){
+        // Initialisation de la communication
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Entrer en entier 'n' : ");
+        // assigniation de n
+        int n = sc.nextInt();
+
+        // boucle for
+        for (int i=1;i<=n;i++){
+            // Sauter 2
+            if (i==2){
+                continue;
+            }
+            System.out.print(i*i+" ");
+        }
+
+        // Fermeture de la communication
+        sc.close();
+    }
+}
+
+// Sortie pour n = 4 : 1 9 16
+```
 ---
 
 [COURS SUIVANT]()
