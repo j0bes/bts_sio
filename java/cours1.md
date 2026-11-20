@@ -6,6 +6,7 @@
 * [Entrée utilisateur](./cours1.md#entrée-utilisateur)
 * [Conditions](./cours1.md#conditions)
 * [Boucles](./cours1.md#boucles)
+* [Exemple final](./cours1.md#exemple-conditions--boucles-avec-scanner)
 
 ## Entrée utilisateur
 En programmation il est important de pouvoir permettre à l'utilisateur d'entrer des données. Et ce via un **input**.
@@ -196,7 +197,7 @@ while (i<=5){
 // Sortie : 1 3 4 5
 ```
 On voit qu'on a sauté l'affichage à l'itération `i == 2`.
-## Exmeple conditions + boucles avec Scanner
+## Exemple conditions + boucles avec Scanner
 On veut pouvoir afficher les **n** premiers carré, mais on ne veut pas afficher le carré de 2.
 ```java
 import java.util.Scanner;
