@@ -193,7 +193,7 @@ System.out.println("Voici la somme de a + b: " + (a+b));
 ==    // égal
 !=    // différent
 ```
-Ces opérateurs sont surtout utiles dans les conditions et boucles que nous verront dans la suite du cours.
+Ces opérateurs sont surtout utiles dans les conditions et boucles que nous verront dans [la suite du cours](./cours1.md#conditions).
 
 ## Exemple structure d'un programme Java
 Pour conclure cette introduction au langage **Java**, voici un le code d'un fichier type.
@@ -219,6 +219,6 @@ public class Compta {
 ```
 ---
 
-[COURS SUIVANT]()
+[COURS SUIVANT](./cours1.md)
 
 *@j0bes* - BTS SIO 2026
