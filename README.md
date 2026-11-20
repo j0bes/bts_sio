@@ -5,7 +5,7 @@
     * [Introduction Java](./java/intro.md)
 
 * Réseau
-    * [Les bases du réseau](./reseau/cours_1.md)
+    * [Les bases du réseau](./reseau/bases_res.md)
 
 ---
 *@j0bes* - BTS SIO 2026
