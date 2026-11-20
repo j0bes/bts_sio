@@ -1,14 +1,11 @@
-# Cours pour le BTS SIO (2026/2027)
-> Dossier avec quelques cours écrit par @j0bes.<br>
+# Cours BTS SIO (2026/2028)
 
-### Cours disponible actuellement
-- Java
-    - [Introduction](./java/introduction.md)
-    - [1 - Input & Méthodes](./java/cours_1.md)
-- Base de données
-    - [Introduction XAMPP](./bdd/intro_xampp.md)
-- Réseau
-    - [Chapitre 1](./reseau/cours_1.md)
+### Cours actuellement disponible
+* Java
+    * [Introduction Java](./java/intro.md)
 
-<hr>
-@j0bes - BTS SIO 2026/2027
+* Réseau
+    * [Les bases du réseau](./reseau/cours_1.md)
+
+---
+*@j0bes* - BTS SIO 2026
