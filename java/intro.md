@@ -219,6 +219,6 @@ public class Compta {
 ```
 ---
 
-[[ COURS SUIVANT ]]()
+[COURS SUIVANT]()
 
 *@j0bes* - BTS SIO 2026
