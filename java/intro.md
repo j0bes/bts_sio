@@ -202,7 +202,7 @@ On va prendre pour l'exemple un fichier `Compta.java`.
 ```java
 public class Compta {
 
-    // Méthode : 'calc_ttc'
+    // Méthode : 'calcTtc'
     public static double calcTtc(double montant){
         final double TAUX = 1.2;
         return montant * TAUX;
