@@ -59,7 +59,7 @@ public static void main(String[] args){
     nomMethode(params);
 }
 ```
-Le type de la méthode est important car c'est lui qui définit ce que va renvoyer la fonction (*int, double, void, ...*).
+Le type de la méthode est important car c'est lui qui définit ce qu'elle renvoie (*int, double, void, ...*).
 
 En algorithmique on fait la distinction entre deux méthodes: **procédure** et **fonction**.
 
